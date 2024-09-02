@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1708069320 source:c:\c\pr1task_1\main.cpp
+	<iostream>
+	<iomanip>
+
+1708069320 source:c:\c++\задания\pr1task_1\main.cpp
+	<iostream>
+	<iomanip>
+
+1710195529 source:c:\c++\tasks\pr1task_1\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	"header.h"
+
+1709223078 source:c:\c++\tasks\pr1task_1\function.cpp
+	<iostream>
+	<iomanip>
+	"header.h"
+
+1709222815 c:\c++\tasks\pr1task_1\header.h
+	<iostream>
+	<iomanip>
+
